@@ -1,0 +1,86 @@
+(James Forshaw) @tiraniddo 's 
+https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20James%20Forshaw%20-%20Introduction%20to%20Logical%20Privilege%20Escalation%20on%20Windows.pdf
+https://www.slideshare.net/44Con/44con-london-2015-windows-10-2-steps-forward-1-step-back
+https://github.com/googleprojectzero/symboliclink-testing-tools
+https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools
+https://googleprojectzero.blogspot.com/2015/08/windows-10hh-symbolic-link-mitigations.html
+https://googleprojectzero.blogspot.com/2018/04/windows-exploitation-tricks-exploiting.html
+https://googleprojectzero.blogspot.com/2015/12/between-rock-and-hard-link.html
+https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
+
+Wenxu Wu (@ma7h1as) & Shi Qin(@Ox9A82)
+https://conference.hitb.org/hitbsecconf2019ams/materials/D1T2%20-%20Automated%20Discovery%20of%20Logical%20Privilege%20Escalation%20Bugs%20in%20Windows%2010%20-%20Wenxu%20Wu%20&%20Shi%20Qin.pdf
+
+@bohops 's
+https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+
+(Matt Nelson https://enigma0x3.net/ ) @enigma0x3 's 
+https://posts.specterops.io/cve-2019-12757-local-privilege-escalation-in-symantec-endpoint-protection-1f7fd5c859c6
+https://posts.specterops.io/avira-optimizer-local-privilege-escalation-af109b7df5b1
+https://posts.specterops.io/cve-2019-13382-local-privilege-escalation-in-snagit-abe5f31c349
+https://posts.specterops.io/cve-2019-13142-razer-surround-1-1-63-0-eop-f18c52b8be0c
+https://posts.specterops.io/razer-synapse-3-elevation-of-privilege-6d2802bd0585
+https://enigma0x3.net/2020/01/15/avira-vpn-local-privilege-escalation-via-insecure-update-location/
+https://enigma0x3.net/2019/12/10/cve-2019-19248-local-privilege-escalation-in-eas-origin-client/
+https://enigma0x3.net/2019/03/20/avira-vpn-2-15-2-28160-elevation-of-privilege-through-insecure-update-location/
+
+
+@_RastaMouse
+https://rastamouse.me/2019/04/weaponising-privileged-file-writes-with-windows-collector-service/
+https://rastamouse.me/2019/04/weaponizing-cve-2019-0841-with-laps/
+
+@atredis
+https://www.atredis.com/blog/cylance-privilege-escalation-vulnerability
+https://www.atredis.com/blog/cve-2018-0952-privilege-escalation-vulnerability-in-windows-standard-collector-service
+
+@rogue_kdc
+https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/
+
+@itm4n
+https://itm4n.github.io/dll-proxying/
+https://itm4n.github.io/localservice-privileges/
+https://itm4n.github.io/cdpsvc-dll-hijacking/
+https://itm4n.github.io/usodllloader-part1/
+https://itm4n.github.io/usodllloader-part2/
+
+(SandboxEscaper) @SandboxBear
+https://sandboxescaper.blogspot.com/2019/10/hunting-for-filesystem-bugs.html
+https://sandboxescaper.blogspot.com/2019/12/chasing-polar-bears-part-one.html
+https://hacknpentest.com/zero-day-exploit-privilege-escalation-via-windows-task-scheduler/
+
+@Oddvarmoe
+https://www.trustedsec.com/blog/finding-a-privilege-escalation-in-the-intel-trusted-connect-service-client/
+
+@decoder_it 's
+https://decoder.cloud/2020/01/20/from-hyper-v-admin-to-system/
+https://decoder.cloud/2019/12/18/from-dropboxupdater-to-nt-authoritysystem/
+https://decoder.cloud/2019/12/12/from-iphone-to-nt-authoritysystem/
+https://decoder.cloud/2019/11/13/from-arbitrary-file-overwrite-to-system/
+https://decoder.cloud/2019/04/29/combinig-luafv-postluafvpostreadwrite-race-condition-pe-with-diaghub-collector-exploit-from-standard-user-to-system/
+https://decoder.cloud/2019/01/04/creating-symbolic-links-in-windows-10/
+
+@clavoillotte 's
+https://troopers.de/downloads/troopers19/TROOPERS19_AD_Abusing_privileged_file_operations.pdf
+https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html
+https://offsec.provadys.com/windows-error-reporting-arbitrary-file-move-eop.html
+https://offsec.provadys.com/osquery-windows-acl-misconfiguration-eop.html
+https://offsec.provadys.com/fsecure-safe-arbitrary-file-copy-eop.html
+https://offsec.provadys.com/mcafee-endpoint-security-arbitrary-file-write-eop.html
+https://offsec.provadys.com/pulse-secure-arbitrary-file-write-eop.html
+
+@PsiDragon 's  
+https://amonitoring.ru/article/steamclient-0day/
+https://amonitoring.ru/article/onemore_steam_eop_0day/
+https://amonitoring.ru/article/steam_vuln_3/
+https://amonitoring.ru/article/origin_lpe_disclosure/
+
+@daveysec's 
+https://rhinosecuritylabs.com/application-security/nvidia-arbitrary-file-writes-to-command-execution-cve-2019-5674/
+
+other
+https://sidechannel.tempestsi.com/vulnerability-in-avira-security-suite-enables-for-privilege-escalation-attacks-e57cdad8cfb3
+https://labs.f-secure.com/advisories/intel-driver-and-support-assistant-dsa-lpe/
+https://www.pentagrid.ch/en/blog/local-privilege-escalation-in-ricoh-printer-drivers-for-windows-cve-2019-19363/
+https://github.com/DimopoulosElias/SEPM-EoP
+https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/november/cve-2019-1405-and-cve-2019-1322-elevation-to-system-via-the-upnp-device-host-service-and-the-update-orchestrator-service/
+https://safebreach.com/Post/Symantec-Endpoint-Protection-Self-Defense-Bypass-and-Potential-Usages-CVE-2019-12758
