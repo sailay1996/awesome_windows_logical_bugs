@@ -11,6 +11,10 @@ https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbit
 Wenxu Wu (@ma7h1as) & Shi Qin(@Ox9A82)
 https://conference.hitb.org/hitbsecconf2019ams/materials/D1T2%20-%20Automated%20Discovery%20of%20Logical%20Privilege%20Escalation%20Bugs%20in%20Windows%2010%20-%20Wenxu%20Wu%20&%20Shi%20Qin.pdf
 
+activelabs'
+https://www.activecyber.us/activelabs/netwrix-auditor-symbolic-link-privilege-escalation-cve-2019-14969
+https://www.activecyber.us/activelabs/nvidia-geforce-experience-local-privilege-escalation-cve-2019-5701
+
 @bohops 's
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
 
