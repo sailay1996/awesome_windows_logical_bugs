@@ -90,3 +90,4 @@ https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/november/c
 https://safebreach.com/Post/Symantec-Endpoint-Protection-Self-Defense-Bypass-and-Potential-Usages-CVE-2019-12758
 https://www.exploit-db.com/exploits/44314
 https://www.youtube.com/watch?v=6kVVwBXOPW0
+https://github.com/padovah4ck/CVE-2019-1253
