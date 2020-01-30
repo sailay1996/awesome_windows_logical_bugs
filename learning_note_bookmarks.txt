@@ -91,3 +91,4 @@ https://safebreach.com/Post/Symantec-Endpoint-Protection-Self-Defense-Bypass-and
 https://www.exploit-db.com/exploits/44314
 https://www.youtube.com/watch?v=6kVVwBXOPW0
 https://github.com/padovah4ck/CVE-2019-1253
+https://0x00-0x00.github.io/research/2019/05/30/Coding-a-reliable-CVE-2019-0841-Bypass.html
