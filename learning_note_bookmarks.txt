@@ -50,6 +50,7 @@ https://itm4n.github.io/usodllloader-part2/
 (SandboxEscaper) @SandboxBear
 https://sandboxescaper.blogspot.com/2019/10/hunting-for-filesystem-bugs.html
 https://sandboxescaper.blogspot.com/2019/12/chasing-polar-bears-part-one.html
+https://sandboxescaper.blogspot.com/2020/01/chasing-polar-bears-part-2.html
 https://hacknpentest.com/zero-day-exploit-privilege-escalation-via-windows-task-scheduler/
 
 @Oddvarmoe
