@@ -1,5 +1,8 @@
 (James Forshaw) @tiraniddo 's 
 https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20James%20Forshaw%20-%20Introduction%20to%20Logical%20Privilege%20Escalation%20on%20Windows.pdf
+https://github.com/tyranid/windows-logical-eop-workshop
+https://www.slideshare.net/OWASPdelhi/abusing-symlinks-on-windows
+https://www.slideshare.net/PacSecJP/james-forshaw-elevator-action
 https://www.slideshare.net/44Con/44con-london-2015-windows-10-2-steps-forward-1-step-back
 https://github.com/googleprojectzero/symboliclink-testing-tools
 https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools
