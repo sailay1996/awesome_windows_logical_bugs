@@ -1,8 +1,10 @@
 (James Forshaw) @tiraniddo 's 
 https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20James%20Forshaw%20-%20Introduction%20to%20Logical%20Privilege%20Escalation%20on%20Windows.pdf
+https://infocon.org/cons/SyScan/SyScan%202015%20Singapore/SyScan%202015%20Singapore%20presentations/SyScan15%20James%20Forshaw%20-%20A%20Link%20to%20the%20Past.pdf
 https://github.com/tyranid/windows-logical-eop-workshop
 https://www.slideshare.net/OWASPdelhi/abusing-symlinks-on-windows
 https://www.slideshare.net/PacSecJP/james-forshaw-elevator-action
+https://www.slideshare.net/Shakacon/social-engineering-the-windows-kernel-by-james-forshaw
 https://www.slideshare.net/44Con/44con-london-2015-windows-10-2-steps-forward-1-step-back
 https://github.com/googleprojectzero/symboliclink-testing-tools
 https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools
@@ -22,6 +24,7 @@ https://www.activecyber.us/activelabs/nvidia-geforce-experience-local-privilege-
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
 
 (Matt Nelson https://enigma0x3.net/ ) @enigma0x3 's 
+https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology
 https://posts.specterops.io/cve-2019-12757-local-privilege-escalation-in-symantec-endpoint-protection-1f7fd5c859c6
 https://posts.specterops.io/avira-optimizer-local-privilege-escalation-af109b7df5b1
 https://posts.specterops.io/cve-2019-13382-local-privilege-escalation-in-snagit-abe5f31c349
@@ -30,6 +33,8 @@ https://posts.specterops.io/razer-synapse-3-elevation-of-privilege-6d2802bd0585
 https://enigma0x3.net/2020/01/15/avira-vpn-local-privilege-escalation-via-insecure-update-location/
 https://enigma0x3.net/2019/12/10/cve-2019-19248-local-privilege-escalation-in-eas-origin-client/
 https://enigma0x3.net/2019/03/20/avira-vpn-2-15-2-28160-elevation-of-privilege-through-insecure-update-location/
+https://www.slideshare.net/enigma0x3/is-not-a-security-boundary-things-i-have-learned-and-things-that-have-gotten-better-from-researching-microsoft-software
+https://www.slideshare.net/enigma0x3/not-a-security-boundary-bypassing-user-account-control
 
 
 @_RastaMouse
