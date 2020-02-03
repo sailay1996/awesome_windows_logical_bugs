@@ -1,0 +1,16 @@
+The following commands will print the affected services:
+
+C:\> for /f "tokens=2 delims='='" %a in ('wmic service list full^|find /i "pathname"^|find /i /v "system32"') do @echo %a >> c:\windows\temp\permissions.txt
+C:\> for /f eol^=^"^ delims^=^" %a in (c:\windows\temp\permissions.txt) do cmd.exe /c icacls "%a"
+If wmic is not available we can use sc.exe:
+
+C:\> sc query state= all | findstr "SERVICE_NAME:" >> Servicenames.txt
+C:\> FOR /F %i in (Servicenames.txt) DO echo %i
+C:\> type Servicenames.txt
+C:\> FOR /F "tokens=2 delims= " %i in (Servicenames.txt) DO @echo %i >> services.txt
+C:\> FOR /F %i in (services.txt) DO @sc qc %i | findstr "BINARY_PATH_NAME" >> path.txt
+
+
+
+You can also manually check each service using cacls:
+C:\> cacls "C:\path\to\file.exe"
