@@ -107,3 +107,4 @@ https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-wind
 https://www.fortinet.com/blog/threat-research/rpc-bug-hunting-case-studies---part-2.html
 https://www.fortinet.com/blog/threat-research/another-local-privilege-escalation-lpe-vulnerability.html
 https://blog.0patch.com/2019/06/another-task-scheduler-0day-another.html
+https://www.atredis.com/blog/cylance-privilege-escalation-vulnerability
