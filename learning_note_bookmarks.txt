@@ -94,6 +94,7 @@ https://rhinosecuritylabs.com/application-security/nvidia-arbitrary-file-writes-
 other
 https://sidechannel.tempestsi.com/vulnerability-in-avira-security-suite-enables-for-privilege-escalation-attacks-e57cdad8cfb3
 https://labs.f-secure.com/advisories/intel-driver-and-support-assistant-dsa-lpe/
+https://labs.f-secure.com/advisories/nvidia-geforce-experience-lpe/
 https://www.pentagrid.ch/en/blog/local-privilege-escalation-in-ricoh-printer-drivers-for-windows-cve-2019-19363/
 https://github.com/DimopoulosElias/SEPM-EoP
 https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/november/cve-2019-1405-and-cve-2019-1322-elevation-to-system-via-the-upnp-device-host-service-and-the-update-orchestrator-service/
