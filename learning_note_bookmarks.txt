@@ -51,6 +51,7 @@ https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/
 
 @itm4n
 https://itm4n.github.io/dll-proxying/
+https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
 https://itm4n.github.io/localservice-privileges/
 https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://itm4n.github.io/usodllloader-part1/
