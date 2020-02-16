@@ -24,6 +24,11 @@ https://www.activecyber.us/activelabs/nvidia-geforce-experience-local-privilege-
 @bohops 's
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
 
+mine (@404death)
+https://heynowyouseeme.blogspot.com/2020/02/privilege-escalation-filewrite-eop-in.html
+https://heynowyouseeme.blogspot.com/2020/02/another-privilege-escalation-filewrite.html
+
+
 (Matt Nelson https://enigma0x3.net/ ) @enigma0x3 's 
 https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology
 https://posts.specterops.io/cve-2019-12757-local-privilege-escalation-in-symantec-endpoint-protection-1f7fd5c859c6
