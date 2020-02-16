@@ -74,6 +74,12 @@ https://decoder.cloud/2019/11/13/from-arbitrary-file-overwrite-to-system/
 https://decoder.cloud/2019/04/29/combinig-luafv-postluafvpostreadwrite-race-condition-pe-with-diaghub-collector-exploit-from-standard-user-to-system/
 https://decoder.cloud/2019/01/04/creating-symbolic-links-in-windows-10/
 
+@padovah4ck
+https://github.com/padovah4ck/CVE-2019-1253
+https://github.com/padovah4ck/CVE-2019-0986
+https://github.com/padovah4ck/CVE-2020-0683
+https://padovah4ck.github.io/CVE-2020-0683/
+
 @clavoillotte 's
 https://troopers.de/downloads/troopers19/TROOPERS19_AD_Abusing_privileged_file_operations.pdf
 https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html
@@ -102,7 +108,6 @@ https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/november/c
 https://safebreach.com/Post/Symantec-Endpoint-Protection-Self-Defense-Bypass-and-Potential-Usages-CVE-2019-12758
 https://www.exploit-db.com/exploits/44314
 https://www.youtube.com/watch?v=6kVVwBXOPW0
-https://github.com/padovah4ck/CVE-2019-1253
 https://0x00-0x00.github.io/research/2019/05/30/Coding-a-reliable-CVE-2019-0841-Bypass.html
 https://www.cyberark.com/threat-research-blog/follow-the-link-exploiting-symbolic-links-with-ease/
 https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv.html
