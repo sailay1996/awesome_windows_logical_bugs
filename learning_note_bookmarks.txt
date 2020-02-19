@@ -99,6 +99,7 @@ https://amonitoring.ru/article/steamclient-0day/
 https://amonitoring.ru/article/onemore_steam_eop_0day/
 https://amonitoring.ru/article/steam_vuln_3/
 https://amonitoring.ru/article/origin_lpe_disclosure/
+https://amonitoring.ru/article/abbyy-lpe/
 
 @daveysec's 
 https://rhinosecuritylabs.com/application-security/nvidia-arbitrary-file-writes-to-command-execution-cve-2019-5674/
