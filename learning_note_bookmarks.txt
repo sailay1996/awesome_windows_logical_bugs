@@ -104,6 +104,7 @@ https://amonitoring.ru/article/origin_lpe_disclosure/
 https://rhinosecuritylabs.com/application-security/nvidia-arbitrary-file-writes-to-command-execution-cve-2019-5674/
 
 other
+https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html
 https://sidechannel.tempestsi.com/vulnerability-in-avira-security-suite-enables-for-privilege-escalation-attacks-e57cdad8cfb3
 https://labs.f-secure.com/advisories/intel-driver-and-support-assistant-dsa-lpe/
 https://labs.f-secure.com/advisories/nvidia-geforce-experience-lpe/
