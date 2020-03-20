@@ -61,6 +61,8 @@ https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/
 @itm4n
 https://itm4n.github.io/dll-proxying/
 https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
+https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
+https://itm4n.github.io/cve-2020-0787-windows-bits-eop/
 https://itm4n.github.io/localservice-privileges/
 https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://itm4n.github.io/usodllloader-part1/
@@ -77,6 +79,7 @@ https://www.trustedsec.com/blog/finding-a-privilege-escalation-in-the-intel-trus
 
 @decoder_it 's
 https://decoder.cloud/2020/01/20/from-hyper-v-admin-to-system/
+https://decoder.cloud/2020/03/19/the-strange-case-of-open-ssh-in-windows-server-2019/
 https://decoder.cloud/2019/12/18/from-dropboxupdater-to-nt-authoritysystem/
 https://decoder.cloud/2019/12/12/from-iphone-to-nt-authoritysystem/
 https://decoder.cloud/2019/11/13/from-arbitrary-file-overwrite-to-system/
