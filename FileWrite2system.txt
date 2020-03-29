@@ -8,9 +8,9 @@ https://github.com/OneLogicalMyth/zeroday-powershell
 
 something which I found
 
-C:\Windows\System32\wpcoreutil.dll (Click Start Windows Insider Program)
+C:\Windows\System32\wpcoreutil.dll (Windows Insider service `wisvc` triggerd by Clicking Start Windows Insider Program)
 
-C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting)
+C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting service)
 
 
 
