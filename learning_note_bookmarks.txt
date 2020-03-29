@@ -63,6 +63,7 @@ https://itm4n.github.io/dll-proxying/
 https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
 https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
 https://itm4n.github.io/cve-2020-0787-windows-bits-eop/
+https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
 https://itm4n.github.io/localservice-privileges/
 https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://itm4n.github.io/usodllloader-part1/
