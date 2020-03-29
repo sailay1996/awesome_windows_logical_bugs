@@ -1,5 +1,18 @@
+### no need to reboot to get NT AUTHORITY\SYSTEM ###
+
 https://github.com/sailay1996/FileWrite2system
 
 https://github.com/itm4n/UsoDllLoader
 
 https://github.com/OneLogicalMyth/zeroday-powershell
+
+
+
+### Need to reboot to get NT AUTHORITY\SYSTEM (hijack dll) ###
+
+C:\Windows\System32\ualapi.dll (spooler service)
+
+C:\Windows\System32\fveapi.dll (ShellHWDetection Service)  @bohops
+
+C:\Windows\System32\Wow64Log.dll (this dll loaded by other third party services)
+http://waleedassar.blogspot.com/2013/01/wow64logdll.html
