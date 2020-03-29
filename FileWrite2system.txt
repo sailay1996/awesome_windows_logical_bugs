@@ -6,6 +6,12 @@ https://github.com/itm4n/UsoDllLoader
 
 https://github.com/OneLogicalMyth/zeroday-powershell
 
+something which I found
+
+C:\Windows\System32\wpcoreutil.dll (Click Start Windows Insider Program)
+
+C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting)
+
 
 
 ### Need to reboot to get NT AUTHORITY\SYSTEM (hijack dll) ###
