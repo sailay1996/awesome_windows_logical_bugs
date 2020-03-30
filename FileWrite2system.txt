@@ -13,6 +13,7 @@ C:\Windows\System32\wpcoreutil.dll (Windows Insider service `wisvc` triggerd by 
 C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting service)
 
 C:\Windows\System32\ualapi.dll (spooler service without restart Triggered by Settings->Update and Security->Troubleshoot->Getup and running->Printer->Run the troubleshooter)
+https://twitter.com/404death/status/1244660190516924417
 
 
 ### Need to reboot to get NT AUTHORITY\SYSTEM (hijack dll) ###
