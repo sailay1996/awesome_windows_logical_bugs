@@ -112,6 +112,9 @@ https://amonitoring.ru/article/abbyy-lpe/
 @daveysec's 
 https://rhinosecuritylabs.com/application-security/nvidia-arbitrary-file-writes-to-command-execution-cve-2019-5674/
 
+Shefan Zong of Qihoo 360 Vulcan Team
+https://blog.diffense.co.kr/2020/03/26/SearchIndexer.html
+
 other
 https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html
 https://sidechannel.tempestsi.com/vulnerability-in-avira-security-suite-enables-for-privilege-escalation-attacks-e57cdad8cfb3
