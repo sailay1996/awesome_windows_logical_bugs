@@ -115,6 +115,9 @@ https://rhinosecuritylabs.com/application-security/nvidia-arbitrary-file-writes-
 Shefan Zong of Qihoo 360 Vulcan Team
 https://blog.diffense.co.kr/2020/03/26/SearchIndexer.html
 
+@BillDemirkapi
+https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-running-Windows
+
 other
 https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html
 https://sidechannel.tempestsi.com/vulnerability-in-avira-security-suite-enables-for-privilege-escalation-attacks-e57cdad8cfb3
