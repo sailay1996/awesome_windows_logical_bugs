@@ -68,6 +68,7 @@ https://itm4n.github.io/localservice-privileges/
 https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://itm4n.github.io/usodllloader-part1/
 https://itm4n.github.io/usodllloader-part2/
+https://itm4n.github.io/windows-server-netman-dll-hijacking/
 
 (SandboxEscaper) @SandboxBear
 https://sandboxescaper.blogspot.com/2019/10/hunting-for-filesystem-bugs.html
@@ -136,3 +137,5 @@ https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-wind
 https://www.fortinet.com/blog/threat-research/rpc-bug-hunting-case-studies---part-2.html
 https://www.fortinet.com/blog/threat-research/another-local-privilege-escalation-lpe-vulnerability.html
 https://blog.0patch.com/2019/06/another-task-scheduler-0day-another.html
+https://www.reddit.com/r/hacking/comments/b0lr05/a_few_binary_plating_0days_for_windows/
+https://msrc-blog.microsoft.com/2018/04/04/triaging-a-dll-planting-vulnerability/
