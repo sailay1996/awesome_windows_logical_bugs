@@ -120,6 +120,7 @@ https://blog.diffense.co.kr/2020/03/26/SearchIndexer.html
 https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-running-Windows
 
 other
+https://danishcyberdefence.dk/blog/appgate_part1
 https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html
 https://sidechannel.tempestsi.com/vulnerability-in-avira-security-suite-enables-for-privilege-escalation-attacks-e57cdad8cfb3
 https://labs.f-secure.com/advisories/intel-driver-and-support-assistant-dsa-lpe/
