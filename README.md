@@ -8,9 +8,9 @@ Created this repo for the people who want to learn about windows logical privile
 
 
 #### Privileged File Operations Bugs To SYSTEM shell (Techniques):
-* [Arbitrary File delete to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/dir_delete2system.txt)
+* [Arbitrary Directory Deletion to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/dir_delete2system.txt)
 * [Arbitrary File create/write to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/FileWrite2system.txt)
-* [Arbitrary Directory create to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/dir_create2system.txt)
+* [Arbitrary Directory creation to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/dir_create2system.txt)
 #### Tools: 
 * James Forshaw’s purpose-built tools & libraries
   * https://github.com/googleprojectzero/symboliclink-testing-tools
