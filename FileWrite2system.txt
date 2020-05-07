@@ -6,6 +6,8 @@ https://github.com/itm4n/UsoDllLoader
 
 https://github.com/OneLogicalMyth/zeroday-powershell
 
+https://github.com/CrackerCat/faxhell
+
 something which I found
 
 C:\Windows\System32\wpcoreutil.dll (Windows Insider service `wisvc` triggerd by Clicking Start Windows Insider Program)
