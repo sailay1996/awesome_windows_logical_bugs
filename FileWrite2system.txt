@@ -14,6 +14,8 @@ C:\Windows\System32\wpcoreutil.dll (Windows Insider service `wisvc` triggerd by 
 
 C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting service)
 
+C:\Windows\System32\wbem\dxgi.dll  ( windows security -> check for protection update)
+
 
 ### Need to reboot to get NT AUTHORITY\SYSTEM (hijack dll) ###
 
