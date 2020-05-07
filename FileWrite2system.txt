@@ -19,6 +19,8 @@ C:\Windows\System32\wbem\dxgi.dll  ( windows security -> check for protection up
 
 ### Need to reboot to get NT AUTHORITY\SYSTEM (hijack dll) ###
 
+C:\Windows\System32\wlbsctrl.dll (IKEEXT service)
+
 C:\Windows\System32\ualapi.dll (spooler service)
 http://www.hexacorn.com/blog/2016/11/08/beyond-good-ol-run-key-part-50/
 
