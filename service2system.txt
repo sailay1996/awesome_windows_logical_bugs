@@ -3,4 +3,10 @@ https://github.com/itm4n/CDPSvcDllHijacking
 
 https://github.com/antonioCoco/RogueWinRM
 
+https://github.com/decoder-it/NetworkServiceExploit
+
+https://github.com/itm4n/PrintSpoofer
+
+https://github.com/ionescu007/faxhell/
+
 https://github.com/sailay1996/tokenx_privEsc
