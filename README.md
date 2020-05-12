@@ -11,6 +11,10 @@ Created this repo for the people who want to learn about windows logical privile
 * [Arbitrary Directory Deletion to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/dir_delete2system.txt)
 * [Arbitrary File create/write to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/FileWrite2system.txt)
 * [Arbitrary Directory creation to SYSTEM shell](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/dir_create2system.txt)
+
+#### Service account to SYSTEM privilege : 
+* [service2system Privileged access](https://github.com/sailay1996/awesome_windows_logical_bugs/blob/master/service2system.txt)
+
 #### Tools: 
 * James Forshaw’s purpose-built tools & libraries
   * https://github.com/googleprojectzero/symboliclink-testing-tools
