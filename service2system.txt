@@ -9,6 +9,8 @@ https://github.com/itm4n/PrintSpoofer
 
 https://github.com/ionescu007/faxhell/
 
+https://github.com/BeichenDream/BadPotato
+
 https://github.com/antonioCoco/RoguePotato
 
 https://github.com/sailay1996/tokenx_privEsc
