@@ -125,6 +125,7 @@ https://blog.diffense.co.kr/2020/03/26/SearchIndexer.html
 https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-running-Windows
 
 other
+https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2
 https://windows-internals.com/printdemon-cve-2020-1048/
 https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-running-Windows/
 https://github.com/sgabe/CVE-2019-1476
