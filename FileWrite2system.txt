@@ -14,6 +14,8 @@ C:\Windows\System32\wpcoreutil.dll (Windows Insider service `wisvc` triggerd by 
 
 C:\Windows\System32\phoneinfo.dll (Windows Problem Reporting service)
 
+https://twitter.com/404death/status/1262670619067334656  (without reboot by @jonasLyk)
+
 C:\Windows\System32\wbem\dxgi.dll  ( windows security -> check for protection update)
 
 
