@@ -4,6 +4,8 @@ https://github.com/sailay1996/FileWrite2system
 
 https://github.com/itm4n/UsoDllLoader
 
+https://github.com/sailay1996/WerTrigger
+
 https://github.com/OneLogicalMyth/zeroday-powershell
 
 https://github.com/ionescu007/faxhell
