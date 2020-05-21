@@ -123,8 +123,19 @@ https://blog.diffense.co.kr/2020/03/26/SearchIndexer.html
 
 @BillDemirkapi
 https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-running-Windows
+ 
+windows error reporting  @galdeleon's
+https://www.youtube.com/watch?v=Y1YJCKfvJEM
+https://github.com/galdeleon/Conferences/blob/master/Exploiting%20Errors%20in%20Windows%20Error%20Reporting%20-%20BlueHatIL%202020.pdf
 
+misc
+https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html
+https://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Ben%20Nagy%20-%20ALPC%20Fuzzing%20Toolkit.pdf
+https://pacsec.jp/psj17/PSJ2017_Rouault_Imbert_alpc_rpc_pacsec.pdf
+https://github.com/avalon1610/ALPC
+ 
 other
+https://unit42.paloaltonetworks.com/tale-of-a-windows-error-reporting-zero-day-cve-2019-0863/
 https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2
 https://windows-internals.com/printdemon-cve-2020-1048/
 https://d4stiny.github.io/Several-Critical-Vulnerabilities-on-most-HP-machines-running-Windows/
