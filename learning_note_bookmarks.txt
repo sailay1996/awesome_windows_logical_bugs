@@ -19,6 +19,8 @@ https://bugs.chromium.org/p/project-zero/issues/detail?id=427&can=1&redir=1
 https://bugs.chromium.org/p/project-zero/issues/list?q=reporter%3Aforshaw%40google.com&can=1
 https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=symbolic&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids
 
+https://packetstormsecurity.com/files/author/9094/
+
 @galdeleon's 
 https://github.com/galdeleon/Conferences/blob/master/Exploiting%20Errors%20in%20Windows%20Error%20Reporting%20-%20BlueHatIL%202020.pdf
 https://www.youtube.com/watch?v=Y1YJCKfvJEM
@@ -80,6 +82,7 @@ https://sandboxescaper.blogspot.com/2019/10/hunting-for-filesystem-bugs.html
 https://sandboxescaper.blogspot.com/2019/12/chasing-polar-bears-part-one.html
 https://sandboxescaper.blogspot.com/2020/01/chasing-polar-bears-part-2.html
 https://hacknpentest.com/zero-day-exploit-privilege-escalation-via-windows-task-scheduler/
+https://packetstormsecurity.com/files/author/13821/
 
 @Oddvarmoe
 https://www.trustedsec.com/blog/finding-a-privilege-escalation-in-the-intel-trusted-connect-service-client/
