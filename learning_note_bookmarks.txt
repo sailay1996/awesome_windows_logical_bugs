@@ -141,6 +141,7 @@ https://pacsec.jp/psj17/PSJ2017_Rouault_Imbert_alpc_rpc_pacsec.pdf
 https://github.com/avalon1610/ALPC
  
 other
+https://github.com/rogue-kdc/CVE-2019-1253
 https://windows-internals.com/printdemon-cve-2020-1048/
 https://unit42.paloaltonetworks.com/tale-of-a-windows-error-reporting-zero-day-cve-2019-0863/
 https://medium.com/csis-techblog/cve-2020-1088-yet-another-arbitrary-delete-eop-a00b97d8c3e2
