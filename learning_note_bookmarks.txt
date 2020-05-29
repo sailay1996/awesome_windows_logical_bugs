@@ -140,8 +140,12 @@ https://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Ben%20Nagy%2
 https://pacsec.jp/psj17/PSJ2017_Rouault_Imbert_alpc_rpc_pacsec.pdf
 https://github.com/avalon1610/ALPC
 https://github.com/houjingyi233/ALPC-fuzz-study
+https://www.360zhijia.com/anquan/456673.html
+https://www.360zhijia.com/anquan/439328.html
  
 other
+https://www.freebuf.com/vuls/192876.html
+https://www.freebuf.com/vuls/184090.html
 https://github.com/rogue-kdc/CVE-2019-1253
 https://windows-internals.com/printdemon-cve-2020-1048/
 https://unit42.paloaltonetworks.com/tale-of-a-windows-error-reporting-zero-day-cve-2019-0863/
