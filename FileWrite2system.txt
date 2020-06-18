@@ -20,6 +20,7 @@ https://twitter.com/404death/status/1262670619067334656  (without reboot by @jon
 
 C:\Windows\System32\wbem\dxgi.dll  ( windows security -> check for protection update)
 
+C:\Windows\System32\wbem\tzres.dll (systeminfo, NetworkService)
 
 ### Need to reboot to get NT AUTHORITY\SYSTEM (hijack dll) ###
 
