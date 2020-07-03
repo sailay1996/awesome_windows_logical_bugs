@@ -113,6 +113,7 @@ https://offsec.provadys.com/osquery-windows-acl-misconfiguration-eop.html
 https://offsec.provadys.com/fsecure-safe-arbitrary-file-copy-eop.html
 https://offsec.provadys.com/mcafee-endpoint-security-arbitrary-file-write-eop.html
 https://offsec.provadys.com/pulse-secure-arbitrary-file-write-eop.html
+https://offsec.almond.consulting/displaylink-usb-graphics-arbitrary-file-write-eop.html
 
 @PsiDragon 's  
 https://amonitoring.ru/article/steamclient-0day/
