@@ -21,6 +21,9 @@ https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=symbolic&colspec=ID
 
 https://packetstormsecurity.com/files/author/9094/
 
+@jonasLyk
+https://secret.club/2020/07/01/diagtrack.html
+
 @galdeleon's 
 https://github.com/galdeleon/Conferences/blob/master/Exploiting%20Errors%20in%20Windows%20Error%20Reporting%20-%20BlueHatIL%202020.pdf
 https://www.youtube.com/watch?v=Y1YJCKfvJEM
