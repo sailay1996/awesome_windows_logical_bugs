@@ -148,6 +148,7 @@ https://www.360zhijia.com/anquan/456673.html
 https://www.360zhijia.com/anquan/439328.html
  
 other
+https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/
 https://github.com/RedyOpsResearchLabs
 https://labs.redyops.com/index.php/2020/04/27/dos-via-arbitrary-folder-creation/
 https://www.freebuf.com/vuls/192876.html
