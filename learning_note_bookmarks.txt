@@ -187,3 +187,4 @@ https://www.reddit.com/r/hacking/comments/b0lr05/a_few_binary_plating_0days_for_
 https://msrc-blog.microsoft.com/2018/04/04/triaging-a-dll-planting-vulnerability/
 https://nixhacker.com/understanding-and-exploiting-symbolic-link-in-windows/
 https://nixhacker.com/breaking-antivirus-arbitrary-delete-using-symbolic-link/
+https://rekken.github.io/2017/07/23/Analysis-and-Exploitation-of-GeekPwn-2016-Windows-Services-EoP-Vulnerability/
