@@ -21,6 +21,8 @@ https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=symbolic&colspec=ID
 
 https://packetstormsecurity.com/files/author/9094/
 
+http://www.zezula.net/en/fstools/filetest.html
+
 @jonasLyk
 https://secret.club/2020/07/01/diagtrack.html
 
