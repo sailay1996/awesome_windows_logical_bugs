@@ -15,6 +15,7 @@ https://googleprojectzero.blogspot.com/2018/04/windows-exploitation-tricks-explo
 https://googleprojectzero.blogspot.com/2015/12/between-rock-and-hard-link.html
 https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
 
+https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html
 https://bugs.chromium.org/p/project-zero/issues/detail?id=427&can=1&redir=1
 https://bugs.chromium.org/p/project-zero/issues/list?q=reporter%3Aforshaw%40google.com&can=1
 https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=symbolic&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids
