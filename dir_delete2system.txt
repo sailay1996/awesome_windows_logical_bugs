@@ -3,3 +3,6 @@ https://secret.club/2020/04/23/directory-deletion-shell.html
 https://github.com/thesecretclub/ArbitraryDirectoryDeletion/blob/master/wer.h
 
 by @jonasLyk
+
+@gweeperx's
+https://github.com/DimopoulosElias/Primitives    
