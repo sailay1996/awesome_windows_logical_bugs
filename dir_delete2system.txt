@@ -8,4 +8,6 @@ by @jonasLyk
 https://github.com/DimopoulosElias/Primitives    
 
 
+https://github.com/klinix5/WinDefend_ZeroDay
+
 https://0x00sec.org/t/windows-defender-av-zero-day-vulnerability/22258
