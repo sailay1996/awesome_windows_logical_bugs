@@ -77,6 +77,7 @@ https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/
 @itm4n
 https://itm4n.github.io/dll-proxying/
 https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/
+https://itm4n.github.io/cve-2020-1170-windows-defender-eop/
 https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
 https://itm4n.github.io/cve-2020-0787-windows-bits-eop/
 https://itm4n.github.io/cve-2020-0863-windows-diagtrack-info-disclo/
@@ -85,6 +86,8 @@ https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://itm4n.github.io/usodllloader-part1/
 https://itm4n.github.io/usodllloader-part2/
 https://itm4n.github.io/windows-server-netman-dll-hijacking/
+https://gist.github.com/gwillcox-r7/419efc54568ae809eaf47843f058cadb
+https://github.com/itm4n/CVEs/blob/master/CVE-2020-1170/DefenderArbitraryFileDelete.ps1
 
 (SandboxEscaper) @SandboxBear
 https://sandboxescaper.blogspot.com/2019/10/hunting-for-filesystem-bugs.html
