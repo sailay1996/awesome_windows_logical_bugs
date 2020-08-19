@@ -155,6 +155,7 @@ https://github.com/avalon1610/ALPC
 https://github.com/houjingyi233/ALPC-fuzz-study
 https://www.360zhijia.com/anquan/456673.html
 https://www.360zhijia.com/anquan/439328.html
+https://www.youtube.com/watch?v=UNpL5csYC1E
  
 other
 https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/
