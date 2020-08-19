@@ -37,6 +37,8 @@ https://conference.hitb.org/hitbsecconf2019ams/materials/D1T2%20-%20Automated%20
 activelabs'
 https://www.activecyber.us/activelabs/netwrix-auditor-symbolic-link-privilege-escalation-cve-2019-14969
 https://www.activecyber.us/activelabs/nvidia-geforce-experience-local-privilege-escalation-cve-2019-5701
+https://www.activecyber.us/activelabs/windows-appx-deployment-service-local-privilege-escalation-cve-2020-1488
+https://www.activecyber.us/activelabs/overwolf-symbolic-link-privilege-escalation-cve-2020-15932
 
 @bohops 's
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
@@ -154,6 +156,7 @@ https://www.360zhijia.com/anquan/456673.html
 https://www.360zhijia.com/anquan/439328.html
  
 other
+https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/
 https://rekken.github.io/2017/05/30/Windows-Logical-EoP-Workshop-Writeup/
 https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/
 https://github.com/RedyOpsResearchLabs
