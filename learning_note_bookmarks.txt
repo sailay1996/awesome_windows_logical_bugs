@@ -150,6 +150,7 @@ misc
 https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html
 https://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Ben%20Nagy%20-%20ALPC%20Fuzzing%20Toolkit.pdf
 https://pacsec.jp/psj17/PSJ2017_Rouault_Imbert_alpc_rpc_pacsec.pdf
+https://www.youtube.com/watch?v=D-F5RxZ_yXc
 https://github.com/avalon1610/ALPC
 https://github.com/houjingyi233/ALPC-fuzz-study
 https://www.360zhijia.com/anquan/456673.html
