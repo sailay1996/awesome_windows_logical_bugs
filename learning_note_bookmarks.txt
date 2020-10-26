@@ -102,6 +102,7 @@ https://packetstormsecurity.com/files/author/13821/
 https://www.trustedsec.com/blog/finding-a-privilege-escalation-in-the-intel-trusted-connect-service-client/
 
 @decoder_it 's
+https://decoder.cloud/2020/10/24/when-ntuser-pol-leads-you-to-system/
 https://decoder.cloud/2020/01/20/from-hyper-v-admin-to-system/
 https://decoder.cloud/2020/03/19/the-strange-case-of-open-ssh-in-windows-server-2019/
 https://decoder.cloud/2019/12/18/from-dropboxupdater-to-nt-authoritysystem/
@@ -158,6 +159,7 @@ https://www.360zhijia.com/anquan/439328.html
 https://www.youtube.com/watch?v=UNpL5csYC1E
  
 other
+https://ssd-disclosure.com/ssd-advisory-windows-installer-elevation-of-privileges-vulnerability/
 https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/
 https://rekken.github.io/2017/05/30/Windows-Logical-EoP-Workshop-Writeup/
 https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/
