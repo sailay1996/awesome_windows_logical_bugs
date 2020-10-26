@@ -159,6 +159,7 @@ https://www.360zhijia.com/anquan/439328.html
 https://www.youtube.com/watch?v=UNpL5csYC1E
  
 other
+https://www.cyberark.com/resources/threat-research-blog/group-policies-going-rogue
 https://ssd-disclosure.com/ssd-advisory-windows-installer-elevation-of-privileges-vulnerability/
 https://voidsec.com/cve-2020-1337-printdemon-is-dead-long-live-printdemon/
 https://rekken.github.io/2017/05/30/Windows-Logical-EoP-Workshop-Writeup/
