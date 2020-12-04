@@ -1,5 +1,9 @@
 https://secret.club/2020/04/23/directory-deletion-shell.html
 
+https://twitter.com/jonasLyk/status/1334751961846050816
+
+"Use your arb del on C:\Windows\Temp\*-*-*-*-*-Sigs - recreate dir, now payload indir as edgegdi.dll"
+
 https://github.com/thesecretclub/ArbitraryDirectoryDeletion/blob/master/wer.h
 
 by @jonasLyk
