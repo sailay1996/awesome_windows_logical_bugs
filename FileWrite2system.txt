@@ -35,3 +35,8 @@ C:\Windows\System32\fveapi.dll (ShellHWDetection Service)  @bohops
 
 C:\Windows\System32\Wow64Log.dll (this dll loaded by other third party services such as GoogleUpdate.exe)
 http://waleedassar.blogspot.com/2013/01/wow64logdll.html
+
+I found something new
+edgegdi.dll C:\Windows\System32
+triggered by "Update-MpSignature"
+
