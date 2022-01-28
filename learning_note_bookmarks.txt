@@ -159,6 +159,8 @@ https://www.360zhijia.com/anquan/439328.html
 https://www.youtube.com/watch?v=UNpL5csYC1E
  
 other
+https://www.redtimmy.com/category/privilege-escalation/
+https://www.zerodayinitiative.com/blog/2020/10/27/cve-2020-16939-windows-group-policy-dacl-overwrite-privilege-escalation
 https://github.com/klinix5/InstallerFileTakeOver
 https://www.youtube.com/watch?v=fOUOFGdiNTA
 https://halove23.blogspot.com/
