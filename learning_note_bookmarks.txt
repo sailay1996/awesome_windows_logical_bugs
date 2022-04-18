@@ -2,6 +2,7 @@
 
 https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2022-25166
 https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
+https://rhinosecuritylabs.com/penetration-testing/cve-2022-25372-local-privilege-escalation-in-pritunl-vpn-client/
 https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks 
 
 (James Forshaw) @tiraniddo 's 
