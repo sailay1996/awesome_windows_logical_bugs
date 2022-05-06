@@ -3,3 +3,5 @@ https://github.com/Dankirk/RegSLScan
 https://github.com/shubham0d/Antivirus-Symlink-Exploit
 https://github.com/LucaBarile/TOCTOU
 https://github.com/shubham0d/Symbolic-link-exploitation
+https://github.com/tesuji/junction
+https://github.com/bay-max1/Win32-NTFS-Symlink
