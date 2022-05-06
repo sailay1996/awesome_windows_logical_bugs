@@ -44,5 +44,6 @@ list process for directory create bug to system shell via comctl32.dll hijack li
 5. C:\Windows\System32\Wermgr.exe.Local (triggered by schtasks /run /TN "Microsoft\Windows\Windows Error Reporting\queueReporting")
 5. ...... etc
 
+https://github.com/RedyOpsResearchLabs/CVE-2020-1283_Windows-Denial-of-Service-Vulnerability/
 
 Another exploitation tricks by James Forshaw : https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html
