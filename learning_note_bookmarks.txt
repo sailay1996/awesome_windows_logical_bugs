@@ -227,6 +227,7 @@ https://github.com/1337g/readfilepoc
 https://github.com/SandboxEscaper
 https://github.com/Gh0st0ne/polarbearrepo-v3
 https://github.com/Gh0st0ne/polarbearrepo-v4
+https://github.com/jas502n/CVE-2019-1388
 
 https://github.com/zamiur/readfile
 https://github.com/WBGlIl/windows_Readfile_exp
