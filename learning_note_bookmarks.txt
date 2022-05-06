@@ -31,6 +31,8 @@ https://packetstormsecurity.com/files/author/9094/
 
 http://www.zezula.net/en/fstools/filetest.html
 
+https://github.com/klinix5/Appx_Blog
+
 @jonasLyk
 https://secret.club/2020/07/01/diagtrack.html
 
