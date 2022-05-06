@@ -1,1 +1,2 @@
 https://github.com/usdAG/SharpLink
+https://github.com/Dankirk/RegSLScan
