@@ -8,6 +8,8 @@ https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-
 
 https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP
 https://github.com/1337g/readfilepoc
+https://github.com/SandboxEscaper
+https://github.com/Gh0st0ne/polarbearrepo-v3
 
 (James Forshaw) @tiraniddo 's 
 https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20James%20Forshaw%20-%20Introduction%20to%20Logical%20Privilege%20Escalation%20on%20Windows.pdf
