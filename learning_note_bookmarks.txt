@@ -5,6 +5,9 @@ https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
 https://rhinosecuritylabs.com/penetration-testing/cve-2022-25372-local-privilege-escalation-in-pritunl-vpn-client/
 https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks 
 
+
+https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP
+
 (James Forshaw) @tiraniddo 's 
 https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20James%20Forshaw%20-%20Introduction%20to%20Logical%20Privilege%20Escalation%20on%20Windows.pdf
 https://infocon.org/cons/SyScan/SyScan%202015%20Singapore/SyScan%202015%20Singapore%20presentations/SyScan15%20James%20Forshaw%20-%20A%20Link%20to%20the%20Past.pdf
