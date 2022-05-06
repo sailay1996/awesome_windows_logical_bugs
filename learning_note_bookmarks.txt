@@ -4,6 +4,7 @@ https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2022-25166
 https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
 https://rhinosecuritylabs.com/penetration-testing/cve-2022-25372-local-privilege-escalation-in-pritunl-vpn-client/
 https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks 
+https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81
 
 
 (James Forshaw) @tiraniddo 's 
@@ -227,3 +228,17 @@ https://github.com/SandboxEscaper
 https://github.com/Gh0st0ne/polarbearrepo-v3
 https://github.com/Gh0st0ne/polarbearrepo-v4
 
+https://github.com/zamiur/readfile
+https://github.com/WBGlIl/windows_Readfile_exp
+https://github.com/Billith/dropbox_exploit
+https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-
+https://github.com/netanelc305/PlEXcalaison
+https://github.com/blnknlights/oscp/tree/ac868e3538b8cf4e6bd9143ab23965d06d8b8ac7/htb/love/38474/src
+https://github.com/xyddnljydd/cve-2020-1066
+https://github.com/xyddnljydd/CVE-2020-17136
+https://github.com/bugzzzhunter/Folder-Deletion-to-System-Shell
+https://github.com/cbwang505/CVE-2020-1066-EXP
+https://github.com/RedyOpsResearchLabs/SEP-14.2-Arbitrary-Write
+https://github.com/yige666/aaa/tree/14757a536fcedc8f4436fed6efb4e0846fc11784/00-CVE_EXP/CVE-2020-0683
+https://github.com/padovah4ck/CVE-2020-0683
+https://github.com/sourceincite/CVE-2018-8440
