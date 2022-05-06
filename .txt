@@ -1,2 +1,5 @@
 https://github.com/usdAG/SharpLink
 https://github.com/Dankirk/RegSLScan
+https://github.com/shubham0d/Antivirus-Symlink-Exploit
+https://github.com/LucaBarile/TOCTOU
+https://github.com/shubham0d/Symbolic-link-exploitation
