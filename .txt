@@ -6,3 +6,4 @@ https://github.com/shubham0d/Symbolic-link-exploitation
 https://github.com/tesuji/junction
 https://github.com/bay-max1/Win32-NTFS-Symlink
 https://github.com/insomnimus/wink
+https://github.com/irsl/microsoft-diaghub-case-sensitivity-eop-cve
