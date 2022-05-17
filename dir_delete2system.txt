@@ -1,5 +1,7 @@
 https://github.com/thezdi/PoC/tree/master/FilesystemEoPs
 
+https://github.com/bugzzzhunter/Folder-Deletion-to-System-Shell
+
 https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks
 
 https://secret.club/2020/04/23/directory-deletion-shell.html
