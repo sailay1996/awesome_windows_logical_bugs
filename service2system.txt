@@ -13,6 +13,8 @@ https://github.com/BeichenDream/BadPotato
 
 https://github.com/antonioCoco/RoguePotato
 
+https://github.com/antonioCoco/RogueWinRM
+
 https://github.com/sailay1996/tokenx_privEsc
 
 https://github.com/CCob/SweetPotato
