@@ -6,6 +6,7 @@ https://rhinosecuritylabs.com/penetration-testing/cve-2022-25372-local-privilege
 https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks 
 https://zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream
 https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81
+https://www.signal-labs.com/blog/rediscovering-epic-games-0-days
 
 
 (James Forshaw) @tiraniddo 's 
