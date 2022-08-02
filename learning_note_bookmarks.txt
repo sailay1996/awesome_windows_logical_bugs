@@ -33,6 +33,8 @@ https://bugs.chromium.org/p/project-zero/issues/detail?id=427&can=1&redir=1
 https://bugs.chromium.org/p/project-zero/issues/list?q=reporter%3Aforshaw%40google.com&can=1
 https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=symbolic&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids
 
+https://github.com/RedyOpsResearchLabs/CVE-2020-1283_Windows-Denial-of-Service-Vulnerability/
+
 https://packetstormsecurity.com/files/author/9094/
 
 http://www.zezula.net/en/fstools/filetest.html
