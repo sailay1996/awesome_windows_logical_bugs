@@ -10,6 +10,7 @@ https://www.signal-labs.com/blog/rediscovering-epic-games-0-days
 https://www.zerodayinitiative.com/blog/2021/11/17/mindshare-using-io-ninja-to-analyze-npfs
 https://www.zerodayinitiative.com/blog/2022/6/1/is-exploiting-a-null-pointer-deref-for-lpe-just-a-pipe-dream
 
+https://x1ng.top/2021/11/17/L3HCTF2021-pwn-wp/#vul_service
 
 (James Forshaw) @tiraniddo 's 
 https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20James%20Forshaw%20-%20Introduction%20to%20Logical%20Privilege%20Escalation%20on%20Windows.pdf
