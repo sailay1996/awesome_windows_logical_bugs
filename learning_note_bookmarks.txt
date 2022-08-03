@@ -182,6 +182,8 @@ https://www.youtube.com/watch?v=UNpL5csYC1E
 https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks 
  
 other
+
+https://www.youtube.com/watch?v=Y1YJCKfvJEM
 https://www.redtimmy.com/category/privilege-escalation/
 https://www.zerodayinitiative.com/blog/2020/10/27/cve-2020-16939-windows-group-policy-dacl-overwrite-privilege-escalation
 https://github.com/klinix5/InstallerFileTakeOver
