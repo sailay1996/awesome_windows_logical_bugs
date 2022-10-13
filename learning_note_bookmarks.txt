@@ -1,5 +1,6 @@
 2022
 
+https://github.com/Pwnrin/CVE-2022-30206
 https://github.com/Wh04m1001/DiagTrackEoP
 https://github.com/Wh04m1001/ZoneAlarmLPE
 https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2022-25166
