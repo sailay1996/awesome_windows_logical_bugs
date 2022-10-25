@@ -9,3 +9,4 @@ https://github.com/bay-max1/Win32-NTFS-Symlink
 https://github.com/insomnimus/wink
 https://github.com/irsl/microsoft-diaghub-case-sensitivity-eop-cve
 https://github.com/bugzzzhunter/Folder-Deletion-to-System-Shell
+https://github.com/jonaslyk/exploitkitpub
