@@ -10,3 +10,4 @@ https://github.com/insomnimus/wink
 https://github.com/irsl/microsoft-diaghub-case-sensitivity-eop-cve
 https://github.com/bugzzzhunter/Folder-Deletion-to-System-Shell
 https://github.com/jonaslyk/exploitkitpub
+https://github.com/Wh04m1001/SysmonEoP
