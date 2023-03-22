@@ -4,11 +4,9 @@ https://blog.doyensec.com//2023/03/21/windows-installer.html
 https://github.com/Wh04m1001/CVE-2023-21752
 https://github.com/Wh04m1001/RazerEoP
 https://github.com/Wh04m1001/SysmonEoP
-https://github.com/Wh04m1001/MSIExecEoP
 https://github.com/Wh04m1001/LpksetupUAC
 https://github.com/Wh04m1001/CVE-2022-3368
 https://github.com/Wh04m1001/IFaultrepElevatedDataCollectionUAC
-https://github.com/Wh04m1001/ZoneAlarmEoP
 
 
 2022
