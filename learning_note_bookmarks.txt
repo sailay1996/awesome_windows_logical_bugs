@@ -1,5 +1,6 @@
 2023
 
+https://github.com/deepinstinct/NoFilter
 https://blog.doyensec.com//2023/03/21/windows-installer.html
 https://github.com/Wh04m1001/CVE-2023-21752
 https://github.com/Wh04m1001/RazerEoP
