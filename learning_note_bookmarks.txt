@@ -2,6 +2,8 @@
 
 https://github.com/deepinstinct/NoFilter
 https://github.com/tastypepperoni/RunAsWinTcb
+https://github.com/Y3A/CVE-2023-28229
+https://ssd-disclosure.com/ssd-advisory-file-history-service-fhsvc-dll-elevation-of-privilege/
 
 https://blog.doyensec.com//2023/03/21/windows-installer.html
 https://github.com/Wh04m1001/CVE-2023-21752
