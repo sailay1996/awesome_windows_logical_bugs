@@ -4,6 +4,7 @@ https://github.com/deepinstinct/NoFilter
 https://github.com/tastypepperoni/RunAsWinTcb
 https://github.com/Y3A/CVE-2023-28229
 https://ssd-disclosure.com/ssd-advisory-file-history-service-fhsvc-dll-elevation-of-privilege/
+https://www.mandiant.com/resources/blog/arbitrary-file-deletion-vulnerabilities
 
 https://github.com/cyberark/PipeViewer
 https://blog.doyensec.com//2023/03/21/windows-installer.html
