@@ -1,5 +1,8 @@
 2023
 
+https://y3a.github.io/2023/07/06/filesystem-logic-bugs/
+https://lucabarile.github.io/Blog/toctou/index.html
+
 https://github.com/deepinstinct/NoFilter
 https://github.com/tastypepperoni/RunAsWinTcb
 https://github.com/Y3A/CVE-2023-28229
