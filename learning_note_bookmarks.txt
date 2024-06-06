@@ -1,3 +1,8 @@
+https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP
+https://github.com/xct/CVE-2024-27460/tree/main
+https://github.com/mansk1es/CVE-2024-21111
+https://github.com/mansk1es/MSPCManagerServiceLPE_poc
+
 2023
 
 https://y3a.github.io/2023/07/06/filesystem-logic-bugs/
