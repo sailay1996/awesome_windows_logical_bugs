@@ -27,7 +27,7 @@ https://github.com/Wh04m1001/CVE-2022-3368
 https://github.com/Wh04m1001/IFaultrepElevatedDataCollectionUAC
 
 https://github.com/shubham0d/Symbolic-link-exploitation
-
+https://github.com/s1n-llaves/RaceLockFileOp
 2022
 https://github.com/jbaines-r7/shakeitoff
 
