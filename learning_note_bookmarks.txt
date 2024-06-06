@@ -2,11 +2,14 @@ https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP
 https://github.com/xct/CVE-2024-27460/tree/main
 https://github.com/mansk1es/CVE-2024-21111
 https://github.com/mansk1es/MSPCManagerServiceLPE_poc
+https://github.com/veath1/ProtonVPN_For_Windows-LPE
+https://github.com/exploitblizzard/WindowsMDM-LPE-0Day
 
 2023
 
 https://y3a.github.io/2023/07/06/filesystem-logic-bugs/
 https://lucabarile.github.io/Blog/toctou/index.html
+https://lucabarile.github.io/Blog/CVE-2022-38604/index.html
 
 https://github.com/deepinstinct/NoFilter
 https://github.com/tastypepperoni/RunAsWinTcb
