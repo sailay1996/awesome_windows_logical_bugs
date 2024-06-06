@@ -29,6 +29,7 @@ https://github.com/Wh04m1001/IFaultrepElevatedDataCollectionUAC
 https://github.com/shubham0d/Symbolic-link-exploitation
 
 2022
+https://github.com/jbaines-r7/shakeitoff
 
 https://github.com/Pwnrin/CVE-2022-30206
 https://github.com/Wh04m1001/MSIExecEoP
