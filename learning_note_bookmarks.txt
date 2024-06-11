@@ -1,6 +1,7 @@
 https://github.com/sailay1996/msi_installed_search
 
 https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP
+https://github.com/Hagrid29/ForeScout-SecureConnector-EoP
 https://github.com/xct/CVE-2024-27460/tree/main
 https://github.com/mansk1es/CVE-2024-21111
 https://github.com/mansk1es/MSPCManagerServiceLPE_poc
