@@ -7,6 +7,8 @@ https://github.com/mansk1es/MSPCManagerServiceLPE_poc
 https://github.com/veath1/ProtonVPN_For_Windows-LPE
 https://github.com/exploitblizzard/WindowsMDM-LPE-0Day
 
+https://medium.com/csg-govtech/catch-me-if-you-can-local-privilege-escalation-in-zscaler-client-connector-7ad997bd7058
+
 2023
 
 https://y3a.github.io/2023/07/06/filesystem-logic-bugs/
