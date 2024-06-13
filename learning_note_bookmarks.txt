@@ -23,6 +23,8 @@ https://lucabarile.github.io/Blog/CVE-2022-38604/index.html
 
 https://cra.sh/public_html/strlcpy3/cve-2022-41120-sysmoneop-privesc-abusing-arbitrary-file-deletes
 
+https://github.com/trailofbits/RpcInvestigator
+
 https://forum.butian.net/share/3033
 
 https://github.com/deepinstinct/NoFilter
