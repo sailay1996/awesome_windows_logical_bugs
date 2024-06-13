@@ -10,6 +10,9 @@ https://github.com/exploitblizzard/WindowsMDM-LPE-0Day
 
 https://medium.com/csg-govtech/catch-me-if-you-can-local-privilege-escalation-in-zscaler-client-connector-7ad997bd7058
 
+https://paper.seebug.org/2045/
+https://github.com/netanelc305/PlEXcalaison
+
 2023
 https://cloud.google.com/blog/topics/threat-intelligence/arbitrary-file-deletion-vulnerabilities
 https://cloud.google.com/blog/topics/threat-intelligence/privileges-third-party-windows-installers/
