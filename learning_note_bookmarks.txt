@@ -7,7 +7,7 @@ https://github.com/mansk1es/CVE-2024-21111
 https://github.com/mansk1es/MSPCManagerServiceLPE_poc
 https://github.com/veath1/ProtonVPN_For_Windows-LPE
 https://github.com/exploitblizzard/WindowsMDM-LPE-0Day
-
+https://github.com/Surager/FSRMEop
 https://medium.com/csg-govtech/catch-me-if-you-can-local-privilege-escalation-in-zscaler-client-connector-7ad997bd7058
 
 https://paper.seebug.org/2045/
