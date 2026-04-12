@@ -1,4 +1,5 @@
 https://blog.amberwolf.com/blog/2026/april/next-next-system/
+https://www.mdsec.co.uk/2026/03/rip-regpwn/
 
 https://github.com/sailay1996/msi_installed_search
 https://www.mdsec.co.uk/2024/04/cve-2024-21111-local-privilege-escalation-in-oracle-virtualbox/
