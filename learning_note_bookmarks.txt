@@ -1,3 +1,6 @@
+https://blog.exodusintel.com/2026/07/06/microsoft-windows-installer-folder-delete-privilege-escalation/
+
+
 https://blog.amberwolf.com/blog/2026/april/next-next-system/
 https://www.mdsec.co.uk/2026/03/rip-regpwn/
 
